@@ -14,3 +14,17 @@
     text-shadow: 14px;
     
 }
+.headerNav a.exbut{
+    float: right;
+   color: aqua;
+   margin-top: 6px;
+}
+.headerNav a.exbut:hover{
+    background-color: black;
+    color: rebeccapurple;
+}
+.headerNav a.active{
+    color: rgb(13, 121, 216);
+    font-weight: bold;
+    font-size: calc(10px + vw);
+}
