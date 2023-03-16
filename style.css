@@ -1,0 +1,16 @@
+.headerNav{
+    background-color: rgb(106, 7, 131);
+    overflow: hidden;
+}
+.headerNav a{
+    float: left;
+    display: block;
+    color: rgb(231, 128, 231);
+    text-align: center;
+    padding: 14px 16px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-size: 17px;
+    text-shadow: 14px;
+    
+}
