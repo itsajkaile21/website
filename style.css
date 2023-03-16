@@ -37,3 +37,16 @@ body, html{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+.myBan{
+    background:  linear-gradient(rgb(0,0,0,.6),rgb(0,0,0,.3));
+    height: 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    transition: 2s;
+    background-image: url('../Portfolio/IMG_09961.jpg');
+}
+.myBan:hover{
+    height: 80%;
+}
