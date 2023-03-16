@@ -84,4 +84,8 @@ body, html{
     transition-duration: 2s;
     font-size: large;
 }
-
+.banT button:hover{
+    background-color: darkgray;
+    color: wheat;
+    width: 100%;
+}
