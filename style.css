@@ -69,3 +69,19 @@ body, html{
     animation-iteration-count: infinite;
 
 }
+.banT button{
+    border: none;
+    outline: 0;
+    width: 50%;
+    display: inline-block;
+    padding: 10px 25px;
+    color: blueviolet;
+    background-color: rgb(217, 139, 248);
+    text-align: center;
+    cursor: pointer;
+    transition-property: background-color;
+    transition: width 2s;
+    transition-duration: 2s;
+    font-size: large;
+}
+
